@@ -1,0 +1,705 @@
+"";"Residency";"Gender";"Age";"Year";"Number of residence"
+"1";"Agder";"Kvinne";"0-49";"X2012";92608
+"2";"Agder";"Kvinne";"0-49";"X2013";93350
+"3";"Agder";"Kvinne";"0-49";"X2014";93968
+"4";"Agder";"Kvinne";"0-49";"X2015";94626
+"5";"Agder";"Kvinne";"0-49";"X2016";94930
+"6";"Agder";"Kvinne";"0-49";"X2017";94905
+"7";"Agder";"Kvinne";"0-49";"X2018";95459
+"8";"Agder";"Kvinne";"0-49";"X2019";95414
+"9";"Agder";"Kvinne";"50-69";"X2012";33087
+"10";"Agder";"Kvinne";"50-69";"X2013";33582
+"11";"Agder";"Kvinne";"50-69";"X2014";34097
+"12";"Agder";"Kvinne";"50-69";"X2015";34576
+"13";"Agder";"Kvinne";"50-69";"X2016";35132
+"14";"Agder";"Kvinne";"50-69";"X2017";35359
+"15";"Agder";"Kvinne";"50-69";"X2018";35596
+"16";"Agder";"Kvinne";"50-69";"X2019";36023
+"17";"Agder";"Kvinne";"70-89";"X2012";15424
+"18";"Agder";"Kvinne";"70-89";"X2013";15569
+"19";"Agder";"Kvinne";"70-89";"X2014";15826
+"20";"Agder";"Kvinne";"70-89";"X2015";16334
+"21";"Agder";"Kvinne";"70-89";"X2016";16677
+"22";"Agder";"Kvinne";"70-89";"X2017";17377
+"23";"Agder";"Kvinne";"70-89";"X2018";18055
+"24";"Agder";"Kvinne";"70-89";"X2019";18595
+"25";"Agder";"Kvinne";"90+";"X2012";1708
+"26";"Agder";"Kvinne";"90+";"X2013";1717
+"27";"Agder";"Kvinne";"90+";"X2014";1738
+"28";"Agder";"Kvinne";"90+";"X2015";1747
+"29";"Agder";"Kvinne";"90+";"X2016";1759
+"30";"Agder";"Kvinne";"90+";"X2017";1796
+"31";"Agder";"Kvinne";"90+";"X2018";1794
+"32";"Agder";"Kvinne";"90+";"X2019";1773
+"33";"Agder";"Mann";"0-49";"X2012";97186
+"34";"Agder";"Mann";"0-49";"X2013";98194
+"35";"Agder";"Mann";"0-49";"X2014";98870
+"36";"Agder";"Mann";"0-49";"X2015";99436
+"37";"Agder";"Mann";"0-49";"X2016";99879
+"38";"Agder";"Mann";"0-49";"X2017";100168
+"39";"Agder";"Mann";"0-49";"X2018";100541
+"40";"Agder";"Mann";"0-49";"X2019";100121
+"41";"Agder";"Mann";"50-69";"X2012";33468
+"42";"Agder";"Mann";"50-69";"X2013";34098
+"43";"Agder";"Mann";"50-69";"X2014";34729
+"44";"Agder";"Mann";"50-69";"X2015";35303
+"45";"Agder";"Mann";"50-69";"X2016";35839
+"46";"Agder";"Mann";"50-69";"X2017";36146
+"47";"Agder";"Mann";"50-69";"X2018";36533
+"48";"Agder";"Mann";"50-69";"X2019";36767
+"49";"Agder";"Mann";"70-89";"X2012";11737
+"50";"Agder";"Mann";"70-89";"X2013";12009
+"51";"Agder";"Mann";"70-89";"X2014";12377
+"52";"Agder";"Mann";"70-89";"X2015";13010
+"53";"Agder";"Mann";"70-89";"X2016";13612
+"54";"Agder";"Mann";"70-89";"X2017";14366
+"55";"Agder";"Mann";"70-89";"X2018";15098
+"56";"Agder";"Mann";"70-89";"X2019";15865
+"57";"Agder";"Mann";"90+";"X2012";601
+"58";"Agder";"Mann";"90+";"X2013";606
+"59";"Agder";"Mann";"90+";"X2014";620
+"60";"Agder";"Mann";"90+";"X2015";612
+"61";"Agder";"Mann";"90+";"X2016";658
+"62";"Agder";"Mann";"90+";"X2017";672
+"63";"Agder";"Mann";"90+";"X2018";678
+"64";"Agder";"Mann";"90+";"X2019";686
+"65";"Innlandet";"Kvinne";"0-49";"X2012";106820
+"66";"Innlandet";"Kvinne";"0-49";"X2013";106476
+"67";"Innlandet";"Kvinne";"0-49";"X2014";106188
+"68";"Innlandet";"Kvinne";"0-49";"X2015";105767
+"69";"Innlandet";"Kvinne";"0-49";"X2016";105051
+"70";"Innlandet";"Kvinne";"0-49";"X2017";104835
+"71";"Innlandet";"Kvinne";"0-49";"X2018";104231
+"72";"Innlandet";"Kvinne";"0-49";"X2019";103322
+"73";"Innlandet";"Kvinne";"50-69";"X2012";48445
+"74";"Innlandet";"Kvinne";"50-69";"X2013";48936
+"75";"Innlandet";"Kvinne";"50-69";"X2014";49253
+"76";"Innlandet";"Kvinne";"50-69";"X2015";49679
+"77";"Innlandet";"Kvinne";"50-69";"X2016";49743
+"78";"Innlandet";"Kvinne";"50-69";"X2017";49675
+"79";"Innlandet";"Kvinne";"50-69";"X2018";49849
+"80";"Innlandet";"Kvinne";"50-69";"X2019";49953
+"81";"Innlandet";"Kvinne";"70-89";"X2012";25451
+"82";"Innlandet";"Kvinne";"70-89";"X2013";25483
+"83";"Innlandet";"Kvinne";"70-89";"X2014";25690
+"84";"Innlandet";"Kvinne";"70-89";"X2015";26074
+"85";"Innlandet";"Kvinne";"70-89";"X2016";26781
+"86";"Innlandet";"Kvinne";"70-89";"X2017";27524
+"87";"Innlandet";"Kvinne";"70-89";"X2018";28251
+"88";"Innlandet";"Kvinne";"70-89";"X2019";28986
+"89";"Innlandet";"Kvinne";"90+";"X2012";2537
+"90";"Innlandet";"Kvinne";"90+";"X2013";2582
+"91";"Innlandet";"Kvinne";"90+";"X2014";2651
+"92";"Innlandet";"Kvinne";"90+";"X2015";2730
+"93";"Innlandet";"Kvinne";"90+";"X2016";2699
+"94";"Innlandet";"Kvinne";"90+";"X2017";2750
+"95";"Innlandet";"Kvinne";"90+";"X2018";2742
+"96";"Innlandet";"Kvinne";"90+";"X2019";2709
+"97";"Innlandet";"Mann";"0-49";"X2012";112336
+"98";"Innlandet";"Mann";"0-49";"X2013";112222
+"99";"Innlandet";"Mann";"0-49";"X2014";112195
+"100";"Innlandet";"Mann";"0-49";"X2015";112300
+"101";"Innlandet";"Mann";"0-49";"X2016";111500
+"102";"Innlandet";"Mann";"0-49";"X2017";111064
+"103";"Innlandet";"Mann";"0-49";"X2018";110768
+"104";"Innlandet";"Mann";"0-49";"X2019";109883
+"105";"Innlandet";"Mann";"50-69";"X2012";48473
+"106";"Innlandet";"Mann";"50-69";"X2013";48970
+"107";"Innlandet";"Mann";"50-69";"X2014";49278
+"108";"Innlandet";"Mann";"50-69";"X2015";49694
+"109";"Innlandet";"Mann";"50-69";"X2016";49991
+"110";"Innlandet";"Mann";"50-69";"X2017";50126
+"111";"Innlandet";"Mann";"50-69";"X2018";50177
+"112";"Innlandet";"Mann";"50-69";"X2019";50331
+"113";"Innlandet";"Mann";"70-89";"X2012";19626
+"114";"Innlandet";"Mann";"70-89";"X2013";19940
+"115";"Innlandet";"Mann";"70-89";"X2014";20447
+"116";"Innlandet";"Mann";"70-89";"X2015";21007
+"117";"Innlandet";"Mann";"70-89";"X2016";21752
+"118";"Innlandet";"Mann";"70-89";"X2017";22754
+"119";"Innlandet";"Mann";"70-89";"X2018";23773
+"120";"Innlandet";"Mann";"70-89";"X2019";24678
+"121";"Innlandet";"Mann";"90+";"X2012";991
+"122";"Innlandet";"Mann";"90+";"X2013";1040
+"123";"Innlandet";"Mann";"90+";"X2014";1083
+"124";"Innlandet";"Mann";"90+";"X2015";1107
+"125";"Innlandet";"Mann";"90+";"X2016";1119
+"126";"Innlandet";"Mann";"90+";"X2017";1165
+"127";"Innlandet";"Mann";"90+";"X2018";1203
+"128";"Innlandet";"Mann";"90+";"X2019";1192
+"129";"More og Romsdal";"Kvinne";"0-49";"X2012";77635
+"130";"More og Romsdal";"Kvinne";"0-49";"X2013";78224
+"131";"More og Romsdal";"Kvinne";"0-49";"X2014";78777
+"132";"More og Romsdal";"Kvinne";"0-49";"X2015";79154
+"133";"More og Romsdal";"Kvinne";"0-49";"X2016";79279
+"134";"More og Romsdal";"Kvinne";"0-49";"X2017";79181
+"135";"More og Romsdal";"Kvinne";"0-49";"X2018";78891
+"136";"More og Romsdal";"Kvinne";"0-49";"X2019";78355
+"137";"More og Romsdal";"Kvinne";"50-69";"X2012";30579
+"138";"More og Romsdal";"Kvinne";"50-69";"X2013";30937
+"139";"More og Romsdal";"Kvinne";"50-69";"X2014";31197
+"140";"More og Romsdal";"Kvinne";"50-69";"X2015";31334
+"141";"More og Romsdal";"Kvinne";"50-69";"X2016";31517
+"142";"More og Romsdal";"Kvinne";"50-69";"X2017";31647
+"143";"More og Romsdal";"Kvinne";"50-69";"X2018";31775
+"144";"More og Romsdal";"Kvinne";"50-69";"X2019";32092
+"145";"More og Romsdal";"Kvinne";"70-89";"X2012";15293
+"146";"More og Romsdal";"Kvinne";"70-89";"X2013";15344
+"147";"More og Romsdal";"Kvinne";"70-89";"X2014";15483
+"148";"More og Romsdal";"Kvinne";"70-89";"X2015";15765
+"149";"More og Romsdal";"Kvinne";"70-89";"X2016";16123
+"150";"More og Romsdal";"Kvinne";"70-89";"X2017";16579
+"151";"More og Romsdal";"Kvinne";"70-89";"X2018";17012
+"152";"More og Romsdal";"Kvinne";"70-89";"X2019";17412
+"153";"More og Romsdal";"Kvinne";"90+";"X2012";1854
+"154";"More og Romsdal";"Kvinne";"90+";"X2013";1932
+"155";"More og Romsdal";"Kvinne";"90+";"X2014";1946
+"156";"More og Romsdal";"Kvinne";"90+";"X2015";1980
+"157";"More og Romsdal";"Kvinne";"90+";"X2016";1992
+"158";"More og Romsdal";"Kvinne";"90+";"X2017";2011
+"159";"More og Romsdal";"Kvinne";"90+";"X2018";2032
+"160";"More og Romsdal";"Kvinne";"90+";"X2019";2058
+"161";"More og Romsdal";"Mann";"0-49";"X2012";84057
+"162";"More og Romsdal";"Mann";"0-49";"X2013";85085
+"163";"More og Romsdal";"Mann";"0-49";"X2014";85549
+"164";"More og Romsdal";"Mann";"0-49";"X2015";86188
+"165";"More og Romsdal";"Mann";"0-49";"X2016";86230
+"166";"More og Romsdal";"Mann";"0-49";"X2017";85920
+"167";"More og Romsdal";"Mann";"0-49";"X2018";85301
+"168";"More og Romsdal";"Mann";"0-49";"X2019";84705
+"169";"More og Romsdal";"Mann";"50-69";"X2012";32195
+"170";"More og Romsdal";"Mann";"50-69";"X2013";32690
+"171";"More og Romsdal";"Mann";"50-69";"X2014";33010
+"172";"More og Romsdal";"Mann";"50-69";"X2015";33302
+"173";"More og Romsdal";"Mann";"50-69";"X2016";33504
+"174";"More og Romsdal";"Mann";"50-69";"X2017";33568
+"175";"More og Romsdal";"Mann";"50-69";"X2018";33833
+"176";"More og Romsdal";"Mann";"50-69";"X2019";34044
+"177";"More og Romsdal";"Mann";"70-89";"X2012";11865
+"178";"More og Romsdal";"Mann";"70-89";"X2013";12064
+"179";"More og Romsdal";"Mann";"70-89";"X2014";12443
+"180";"More og Romsdal";"Mann";"70-89";"X2015";12889
+"181";"More og Romsdal";"Mann";"70-89";"X2016";13503
+"182";"More og Romsdal";"Mann";"70-89";"X2017";14167
+"183";"More og Romsdal";"Mann";"70-89";"X2018";14806
+"184";"More og Romsdal";"Mann";"70-89";"X2019";15491
+"185";"More og Romsdal";"Mann";"90+";"X2012";641
+"186";"More og Romsdal";"Mann";"90+";"X2013";699
+"187";"More og Romsdal";"Mann";"90+";"X2014";721
+"188";"More og Romsdal";"Mann";"90+";"X2015";727
+"189";"More og Romsdal";"Mann";"90+";"X2016";759
+"190";"More og Romsdal";"Mann";"90+";"X2017";774
+"191";"More og Romsdal";"Mann";"90+";"X2018";771
+"192";"More og Romsdal";"Mann";"90+";"X2019";813
+"193";"Nordland";"Kvinne";"0-49";"X2012";71887
+"194";"Nordland";"Kvinne";"0-49";"X2013";71930
+"195";"Nordland";"Kvinne";"0-49";"X2014";71791
+"196";"Nordland";"Kvinne";"0-49";"X2015";71293
+"197";"Nordland";"Kvinne";"0-49";"X2016";70808
+"198";"Nordland";"Kvinne";"0-49";"X2017";70536
+"199";"Nordland";"Kvinne";"0-49";"X2018";70063
+"200";"Nordland";"Kvinne";"0-49";"X2019";69511
+"201";"Nordland";"Kvinne";"50-69";"X2012";29333
+"202";"Nordland";"Kvinne";"50-69";"X2013";29656
+"203";"Nordland";"Kvinne";"50-69";"X2014";30067
+"204";"Nordland";"Kvinne";"50-69";"X2015";30301
+"205";"Nordland";"Kvinne";"50-69";"X2016";30533
+"206";"Nordland";"Kvinne";"50-69";"X2017";30591
+"207";"Nordland";"Kvinne";"50-69";"X2018";30840
+"208";"Nordland";"Kvinne";"50-69";"X2019";30913
+"209";"Nordland";"Kvinne";"70-89";"X2012";15013
+"210";"Nordland";"Kvinne";"70-89";"X2013";15054
+"211";"Nordland";"Kvinne";"70-89";"X2014";15128
+"212";"Nordland";"Kvinne";"70-89";"X2015";15481
+"213";"Nordland";"Kvinne";"70-89";"X2016";15795
+"214";"Nordland";"Kvinne";"70-89";"X2017";16284
+"215";"Nordland";"Kvinne";"70-89";"X2018";16641
+"216";"Nordland";"Kvinne";"70-89";"X2019";17054
+"217";"Nordland";"Kvinne";"90+";"X2012";1665
+"218";"Nordland";"Kvinne";"90+";"X2013";1692
+"219";"Nordland";"Kvinne";"90+";"X2014";1738
+"220";"Nordland";"Kvinne";"90+";"X2015";1727
+"221";"Nordland";"Kvinne";"90+";"X2016";1726
+"222";"Nordland";"Kvinne";"90+";"X2017";1731
+"223";"Nordland";"Kvinne";"90+";"X2018";1728
+"224";"Nordland";"Kvinne";"90+";"X2019";1747
+"225";"Nordland";"Mann";"0-49";"X2012";75824
+"226";"Nordland";"Mann";"0-49";"X2013";76070
+"227";"Nordland";"Mann";"0-49";"X2014";76381
+"228";"Nordland";"Mann";"0-49";"X2015";76239
+"229";"Nordland";"Mann";"0-49";"X2016";75671
+"230";"Nordland";"Mann";"0-49";"X2017";75630
+"231";"Nordland";"Mann";"0-49";"X2018";75319
+"232";"Nordland";"Mann";"0-49";"X2019";74516
+"233";"Nordland";"Mann";"50-69";"X2012";31048
+"234";"Nordland";"Mann";"50-69";"X2013";31346
+"235";"Nordland";"Mann";"50-69";"X2014";31593
+"236";"Nordland";"Mann";"50-69";"X2015";31930
+"237";"Nordland";"Mann";"50-69";"X2016";32054
+"238";"Nordland";"Mann";"50-69";"X2017";32137
+"239";"Nordland";"Mann";"50-69";"X2018";32125
+"240";"Nordland";"Mann";"50-69";"X2019";32451
+"241";"Nordland";"Mann";"70-89";"X2012";11748
+"242";"Nordland";"Mann";"70-89";"X2013";12026
+"243";"Nordland";"Mann";"70-89";"X2014";12328
+"244";"Nordland";"Mann";"70-89";"X2015";12841
+"245";"Nordland";"Mann";"70-89";"X2016";13422
+"246";"Nordland";"Mann";"70-89";"X2017";14080
+"247";"Nordland";"Mann";"70-89";"X2018";14708
+"248";"Nordland";"Mann";"70-89";"X2019";15266
+"249";"Nordland";"Mann";"90+";"X2012";518
+"250";"Nordland";"Mann";"90+";"X2013";559
+"251";"Nordland";"Mann";"90+";"X2014";595
+"252";"Nordland";"Mann";"90+";"X2015";590
+"253";"Nordland";"Mann";"90+";"X2016";614
+"254";"Nordland";"Mann";"90+";"X2017";625
+"255";"Nordland";"Mann";"90+";"X2018";652
+"256";"Nordland";"Mann";"90+";"X2019";668
+"257";"Oslo";"Kvinne";"0-49";"X2012";218678
+"258";"Oslo";"Kvinne";"0-49";"X2013";222611
+"259";"Oslo";"Kvinne";"0-49";"X2014";226220
+"260";"Oslo";"Kvinne";"0-49";"X2015";230926
+"261";"Oslo";"Kvinne";"0-49";"X2016";234551
+"262";"Oslo";"Kvinne";"0-49";"X2017";237263
+"263";"Oslo";"Kvinne";"0-49";"X2018";239434
+"264";"Oslo";"Kvinne";"0-49";"X2019";241690
+"265";"Oslo";"Kvinne";"50-69";"X2012";59739
+"266";"Oslo";"Kvinne";"50-69";"X2013";60846
+"267";"Oslo";"Kvinne";"50-69";"X2014";61791
+"268";"Oslo";"Kvinne";"50-69";"X2015";62842
+"269";"Oslo";"Kvinne";"50-69";"X2016";63732
+"270";"Oslo";"Kvinne";"50-69";"X2017";64269
+"271";"Oslo";"Kvinne";"50-69";"X2018";64863
+"272";"Oslo";"Kvinne";"50-69";"X2019";65706
+"273";"Oslo";"Kvinne";"70-89";"X2012";26544
+"274";"Oslo";"Kvinne";"70-89";"X2013";26394
+"275";"Oslo";"Kvinne";"70-89";"X2014";26604
+"276";"Oslo";"Kvinne";"70-89";"X2015";27172
+"277";"Oslo";"Kvinne";"70-89";"X2016";27898
+"278";"Oslo";"Kvinne";"70-89";"X2017";28930
+"279";"Oslo";"Kvinne";"70-89";"X2018";29769
+"280";"Oslo";"Kvinne";"70-89";"X2019";30547
+"281";"Oslo";"Kvinne";"90+";"X2012";3718
+"282";"Oslo";"Kvinne";"90+";"X2013";3705
+"283";"Oslo";"Kvinne";"90+";"X2014";3704
+"284";"Oslo";"Kvinne";"90+";"X2015";3844
+"285";"Oslo";"Kvinne";"90+";"X2016";3785
+"286";"Oslo";"Kvinne";"90+";"X2017";3719
+"287";"Oslo";"Kvinne";"90+";"X2018";3597
+"288";"Oslo";"Kvinne";"90+";"X2019";3529
+"289";"Oslo";"Mann";"0-49";"X2012";226218
+"290";"Oslo";"Mann";"0-49";"X2013";230169
+"291";"Oslo";"Mann";"0-49";"X2014";234073
+"292";"Oslo";"Mann";"0-49";"X2015";238568
+"293";"Oslo";"Mann";"0-49";"X2016";242177
+"294";"Oslo";"Mann";"0-49";"X2017";244351
+"295";"Oslo";"Mann";"0-49";"X2018";245831
+"296";"Oslo";"Mann";"0-49";"X2019";247503
+"297";"Oslo";"Mann";"50-69";"X2012";59557
+"298";"Oslo";"Mann";"50-69";"X2013";61032
+"299";"Oslo";"Mann";"50-69";"X2014";62091
+"300";"Oslo";"Mann";"50-69";"X2015";63292
+"301";"Oslo";"Mann";"50-69";"X2016";64246
+"302";"Oslo";"Mann";"50-69";"X2017";64844
+"303";"Oslo";"Mann";"50-69";"X2018";65501
+"304";"Oslo";"Mann";"50-69";"X2019";66615
+"305";"Oslo";"Mann";"70-89";"X2012";17767
+"306";"Oslo";"Mann";"70-89";"X2013";18121
+"307";"Oslo";"Mann";"70-89";"X2014";18834
+"308";"Oslo";"Mann";"70-89";"X2015";19833
+"309";"Oslo";"Mann";"70-89";"X2016";20774
+"310";"Oslo";"Mann";"70-89";"X2017";22136
+"311";"Oslo";"Mann";"70-89";"X2018";23229
+"312";"Oslo";"Mann";"70-89";"X2019";24213
+"313";"Oslo";"Mann";"90+";"X2012";1064
+"314";"Oslo";"Mann";"90+";"X2013";1088
+"315";"Oslo";"Mann";"90+";"X2014";1146
+"316";"Oslo";"Mann";"90+";"X2015";1199
+"317";"Oslo";"Mann";"90+";"X2016";1227
+"318";"Oslo";"Mann";"90+";"X2017";1247
+"319";"Oslo";"Mann";"90+";"X2018";1245
+"320";"Oslo";"Mann";"90+";"X2019";1268
+"321";"Rogaland";"Kvinne";"0-49";"X2012";150715
+"322";"Rogaland";"Kvinne";"0-49";"X2013";153582
+"323";"Rogaland";"Kvinne";"0-49";"X2014";155797
+"324";"Rogaland";"Kvinne";"0-49";"X2015";157340
+"325";"Rogaland";"Kvinne";"0-49";"X2016";157797
+"326";"Rogaland";"Kvinne";"0-49";"X2017";157241
+"327";"Rogaland";"Kvinne";"0-49";"X2018";156524
+"328";"Rogaland";"Kvinne";"0-49";"X2019";155990
+"329";"Rogaland";"Kvinne";"50-69";"X2012";45575
+"330";"Rogaland";"Kvinne";"50-69";"X2013";46468
+"331";"Rogaland";"Kvinne";"50-69";"X2014";47362
+"332";"Rogaland";"Kvinne";"50-69";"X2015";48331
+"333";"Rogaland";"Kvinne";"50-69";"X2016";49104
+"334";"Rogaland";"Kvinne";"50-69";"X2017";49992
+"335";"Rogaland";"Kvinne";"50-69";"X2018";50890
+"336";"Rogaland";"Kvinne";"50-69";"X2019";51930
+"337";"Rogaland";"Kvinne";"70-89";"X2012";19835
+"338";"Rogaland";"Kvinne";"70-89";"X2013";20043
+"339";"Rogaland";"Kvinne";"70-89";"X2014";20467
+"340";"Rogaland";"Kvinne";"70-89";"X2015";21091
+"341";"Rogaland";"Kvinne";"70-89";"X2016";21791
+"342";"Rogaland";"Kvinne";"70-89";"X2017";22479
+"343";"Rogaland";"Kvinne";"70-89";"X2018";23274
+"344";"Rogaland";"Kvinne";"70-89";"X2019";24067
+"345";"Rogaland";"Kvinne";"90+";"X2012";2278
+"346";"Rogaland";"Kvinne";"90+";"X2013";2318
+"347";"Rogaland";"Kvinne";"90+";"X2014";2344
+"348";"Rogaland";"Kvinne";"90+";"X2015";2317
+"349";"Rogaland";"Kvinne";"90+";"X2016";2303
+"350";"Rogaland";"Kvinne";"90+";"X2017";2338
+"351";"Rogaland";"Kvinne";"90+";"X2018";2303
+"352";"Rogaland";"Kvinne";"90+";"X2019";2306
+"353";"Rogaland";"Mann";"0-49";"X2012";160866
+"354";"Rogaland";"Mann";"0-49";"X2013";164194
+"355";"Rogaland";"Mann";"0-49";"X2014";166440
+"356";"Rogaland";"Mann";"0-49";"X2015";168135
+"357";"Rogaland";"Mann";"0-49";"X2016";168387
+"358";"Rogaland";"Mann";"0-49";"X2017";167620
+"359";"Rogaland";"Mann";"0-49";"X2018";166215
+"360";"Rogaland";"Mann";"0-49";"X2019";165257
+"361";"Rogaland";"Mann";"50-69";"X2012";47875
+"362";"Rogaland";"Mann";"50-69";"X2013";49055
+"363";"Rogaland";"Mann";"50-69";"X2014";50081
+"364";"Rogaland";"Mann";"50-69";"X2015";51163
+"365";"Rogaland";"Mann";"50-69";"X2016";51998
+"366";"Rogaland";"Mann";"50-69";"X2017";52633
+"367";"Rogaland";"Mann";"50-69";"X2018";53658
+"368";"Rogaland";"Mann";"50-69";"X2019";54577
+"369";"Rogaland";"Mann";"70-89";"X2012";15157
+"370";"Rogaland";"Mann";"70-89";"X2013";15667
+"371";"Rogaland";"Mann";"70-89";"X2014";16269
+"372";"Rogaland";"Mann";"70-89";"X2015";17049
+"373";"Rogaland";"Mann";"70-89";"X2016";17900
+"374";"Rogaland";"Mann";"70-89";"X2017";18832
+"375";"Rogaland";"Mann";"70-89";"X2018";19738
+"376";"Rogaland";"Mann";"70-89";"X2019";20579
+"377";"Rogaland";"Mann";"90+";"X2012";814
+"378";"Rogaland";"Mann";"90+";"X2013";832
+"379";"Rogaland";"Mann";"90+";"X2014";865
+"380";"Rogaland";"Mann";"90+";"X2015";876
+"381";"Rogaland";"Mann";"90+";"X2016";895
+"382";"Rogaland";"Mann";"90+";"X2017";889
+"383";"Rogaland";"Mann";"90+";"X2018";924
+"384";"Rogaland";"Mann";"90+";"X2019";948
+"385";"Troms og Finnmark";"Kvinne";"0-49";"X2012";73904
+"386";"Troms og Finnmark";"Kvinne";"0-49";"X2013";74324
+"387";"Troms og Finnmark";"Kvinne";"0-49";"X2014";74655
+"388";"Troms og Finnmark";"Kvinne";"0-49";"X2015";74630
+"389";"Troms og Finnmark";"Kvinne";"0-49";"X2016";74300
+"390";"Troms og Finnmark";"Kvinne";"0-49";"X2017";74338
+"391";"Troms og Finnmark";"Kvinne";"0-49";"X2018";74099
+"392";"Troms og Finnmark";"Kvinne";"0-49";"X2019";73597
+"393";"Troms og Finnmark";"Kvinne";"50-69";"X2012";27645
+"394";"Troms og Finnmark";"Kvinne";"50-69";"X2013";28038
+"395";"Troms og Finnmark";"Kvinne";"50-69";"X2014";28431
+"396";"Troms og Finnmark";"Kvinne";"50-69";"X2015";28787
+"397";"Troms og Finnmark";"Kvinne";"50-69";"X2016";29085
+"398";"Troms og Finnmark";"Kvinne";"50-69";"X2017";29223
+"399";"Troms og Finnmark";"Kvinne";"50-69";"X2018";29367
+"400";"Troms og Finnmark";"Kvinne";"50-69";"X2019";29595
+"401";"Troms og Finnmark";"Kvinne";"70-89";"X2012";12454
+"402";"Troms og Finnmark";"Kvinne";"70-89";"X2013";12685
+"403";"Troms og Finnmark";"Kvinne";"70-89";"X2014";12857
+"404";"Troms og Finnmark";"Kvinne";"70-89";"X2015";13182
+"405";"Troms og Finnmark";"Kvinne";"70-89";"X2016";13543
+"406";"Troms og Finnmark";"Kvinne";"70-89";"X2017";14037
+"407";"Troms og Finnmark";"Kvinne";"70-89";"X2018";14629
+"408";"Troms og Finnmark";"Kvinne";"70-89";"X2019";15131
+"409";"Troms og Finnmark";"Kvinne";"90+";"X2012";1104
+"410";"Troms og Finnmark";"Kvinne";"90+";"X2013";1107
+"411";"Troms og Finnmark";"Kvinne";"90+";"X2014";1175
+"412";"Troms og Finnmark";"Kvinne";"90+";"X2015";1205
+"413";"Troms og Finnmark";"Kvinne";"90+";"X2016";1234
+"414";"Troms og Finnmark";"Kvinne";"90+";"X2017";1263
+"415";"Troms og Finnmark";"Kvinne";"90+";"X2018";1236
+"416";"Troms og Finnmark";"Kvinne";"90+";"X2019";1222
+"417";"Troms og Finnmark";"Mann";"0-49";"X2012";78928
+"418";"Troms og Finnmark";"Mann";"0-49";"X2013";79623
+"419";"Troms og Finnmark";"Mann";"0-49";"X2014";80267
+"420";"Troms og Finnmark";"Mann";"0-49";"X2015";80650
+"421";"Troms og Finnmark";"Mann";"0-49";"X2016";80591
+"422";"Troms og Finnmark";"Mann";"0-49";"X2017";80707
+"423";"Troms og Finnmark";"Mann";"0-49";"X2018";80275
+"424";"Troms og Finnmark";"Mann";"0-49";"X2019";79651
+"425";"Troms og Finnmark";"Mann";"50-69";"X2012";29214
+"426";"Troms og Finnmark";"Mann";"50-69";"X2013";29545
+"427";"Troms og Finnmark";"Mann";"50-69";"X2014";29881
+"428";"Troms og Finnmark";"Mann";"50-69";"X2015";30188
+"429";"Troms og Finnmark";"Mann";"50-69";"X2016";30434
+"430";"Troms og Finnmark";"Mann";"50-69";"X2017";30677
+"431";"Troms og Finnmark";"Mann";"50-69";"X2018";30821
+"432";"Troms og Finnmark";"Mann";"50-69";"X2019";30975
+"433";"Troms og Finnmark";"Mann";"70-89";"X2012";10144
+"434";"Troms og Finnmark";"Mann";"70-89";"X2013";10572
+"435";"Troms og Finnmark";"Mann";"70-89";"X2014";10879
+"436";"Troms og Finnmark";"Mann";"70-89";"X2015";11281
+"437";"Troms og Finnmark";"Mann";"70-89";"X2016";11740
+"438";"Troms og Finnmark";"Mann";"70-89";"X2017";12332
+"439";"Troms og Finnmark";"Mann";"70-89";"X2018";13035
+"440";"Troms og Finnmark";"Mann";"70-89";"X2019";13663
+"441";"Troms og Finnmark";"Mann";"90+";"X2012";328
+"442";"Troms og Finnmark";"Mann";"90+";"X2013";336
+"443";"Troms og Finnmark";"Mann";"90+";"X2014";368
+"444";"Troms og Finnmark";"Mann";"90+";"X2015";415
+"445";"Troms og Finnmark";"Mann";"90+";"X2016";444
+"446";"Troms og Finnmark";"Mann";"90+";"X2017";456
+"447";"Troms og Finnmark";"Mann";"90+";"X2018";463
+"448";"Troms og Finnmark";"Mann";"90+";"X2019";492
+"449";"Trondelag";"Kvinne";"0-49";"X2012";139088
+"450";"Trondelag";"Kvinne";"0-49";"X2013";140493
+"451";"Trondelag";"Kvinne";"0-49";"X2014";141122
+"452";"Trondelag";"Kvinne";"0-49";"X2015";141965
+"453";"Trondelag";"Kvinne";"0-49";"X2016";142389
+"454";"Trondelag";"Kvinne";"0-49";"X2017";143068
+"455";"Trondelag";"Kvinne";"0-49";"X2018";143698
+"456";"Trondelag";"Kvinne";"0-49";"X2019";143609
+"457";"Trondelag";"Kvinne";"50-69";"X2012";50331
+"458";"Trondelag";"Kvinne";"50-69";"X2013";50981
+"459";"Trondelag";"Kvinne";"50-69";"X2014";51617
+"460";"Trondelag";"Kvinne";"50-69";"X2015";52123
+"461";"Trondelag";"Kvinne";"50-69";"X2016";52611
+"462";"Trondelag";"Kvinne";"50-69";"X2017";52969
+"463";"Trondelag";"Kvinne";"50-69";"X2018";53420
+"464";"Trondelag";"Kvinne";"50-69";"X2019";54116
+"465";"Trondelag";"Kvinne";"70-89";"X2012";24077
+"466";"Trondelag";"Kvinne";"70-89";"X2013";24321
+"467";"Trondelag";"Kvinne";"70-89";"X2014";24795
+"468";"Trondelag";"Kvinne";"70-89";"X2015";25383
+"469";"Trondelag";"Kvinne";"70-89";"X2016";26179
+"470";"Trondelag";"Kvinne";"70-89";"X2017";27066
+"471";"Trondelag";"Kvinne";"70-89";"X2018";27918
+"472";"Trondelag";"Kvinne";"70-89";"X2019";28753
+"473";"Trondelag";"Kvinne";"90+";"X2012";2412
+"474";"Trondelag";"Kvinne";"90+";"X2013";2517
+"475";"Trondelag";"Kvinne";"90+";"X2014";2589
+"476";"Trondelag";"Kvinne";"90+";"X2015";2669
+"477";"Trondelag";"Kvinne";"90+";"X2016";2714
+"478";"Trondelag";"Kvinne";"90+";"X2017";2779
+"479";"Trondelag";"Kvinne";"90+";"X2018";2744
+"480";"Trondelag";"Kvinne";"90+";"X2019";2774
+"481";"Trondelag";"Mann";"0-49";"X2012";147978
+"482";"Trondelag";"Mann";"0-49";"X2013";149944
+"483";"Trondelag";"Mann";"0-49";"X2014";150854
+"484";"Trondelag";"Mann";"0-49";"X2015";151843
+"485";"Trondelag";"Mann";"0-49";"X2016";152487
+"486";"Trondelag";"Mann";"0-49";"X2017";153692
+"487";"Trondelag";"Mann";"0-49";"X2018";154464
+"488";"Trondelag";"Mann";"0-49";"X2019";154498
+"489";"Trondelag";"Mann";"50-69";"X2012";51481
+"490";"Trondelag";"Mann";"50-69";"X2013";52350
+"491";"Trondelag";"Mann";"50-69";"X2014";52918
+"492";"Trondelag";"Mann";"50-69";"X2015";53507
+"493";"Trondelag";"Mann";"50-69";"X2016";54115
+"494";"Trondelag";"Mann";"50-69";"X2017";54581
+"495";"Trondelag";"Mann";"50-69";"X2018";55018
+"496";"Trondelag";"Mann";"50-69";"X2019";55667
+"497";"Trondelag";"Mann";"70-89";"X2012";18850
+"498";"Trondelag";"Mann";"70-89";"X2013";19389
+"499";"Trondelag";"Mann";"70-89";"X2014";20120
+"500";"Trondelag";"Mann";"70-89";"X2015";20898
+"501";"Trondelag";"Mann";"70-89";"X2016";21828
+"502";"Trondelag";"Mann";"70-89";"X2017";22955
+"503";"Trondelag";"Mann";"70-89";"X2018";23963
+"504";"Trondelag";"Mann";"70-89";"X2019";25029
+"505";"Trondelag";"Mann";"90+";"X2012";852
+"506";"Trondelag";"Mann";"90+";"X2013";870
+"507";"Trondelag";"Mann";"90+";"X2014";951
+"508";"Trondelag";"Mann";"90+";"X2015";998
+"509";"Trondelag";"Mann";"90+";"X2016";1029
+"510";"Trondelag";"Mann";"90+";"X2017";1111
+"511";"Trondelag";"Mann";"90+";"X2018";1129
+"512";"Trondelag";"Mann";"90+";"X2019";1188
+"513";"Vestfold og Telemark";"Kvinne";"0-49";"X2012";123010
+"514";"Vestfold og Telemark";"Kvinne";"0-49";"X2013";123457
+"515";"Vestfold og Telemark";"Kvinne";"0-49";"X2014";123625
+"516";"Vestfold og Telemark";"Kvinne";"0-49";"X2015";123303
+"517";"Vestfold og Telemark";"Kvinne";"0-49";"X2016";123058
+"518";"Vestfold og Telemark";"Kvinne";"0-49";"X2017";123010
+"519";"Vestfold og Telemark";"Kvinne";"0-49";"X2018";122535
+"520";"Vestfold og Telemark";"Kvinne";"0-49";"X2019";121930
+"521";"Vestfold og Telemark";"Kvinne";"50-69";"X2012";50990
+"522";"Vestfold og Telemark";"Kvinne";"50-69";"X2013";51775
+"523";"Vestfold og Telemark";"Kvinne";"50-69";"X2014";52441
+"524";"Vestfold og Telemark";"Kvinne";"50-69";"X2015";52913
+"525";"Vestfold og Telemark";"Kvinne";"50-69";"X2016";53556
+"526";"Vestfold og Telemark";"Kvinne";"50-69";"X2017";53845
+"527";"Vestfold og Telemark";"Kvinne";"50-69";"X2018";54199
+"528";"Vestfold og Telemark";"Kvinne";"50-69";"X2019";54827
+"529";"Vestfold og Telemark";"Kvinne";"70-89";"X2012";24795
+"530";"Vestfold og Telemark";"Kvinne";"70-89";"X2013";24869
+"531";"Vestfold og Telemark";"Kvinne";"70-89";"X2014";25089
+"532";"Vestfold og Telemark";"Kvinne";"70-89";"X2015";25670
+"533";"Vestfold og Telemark";"Kvinne";"70-89";"X2016";26426
+"534";"Vestfold og Telemark";"Kvinne";"70-89";"X2017";27487
+"535";"Vestfold og Telemark";"Kvinne";"70-89";"X2018";28500
+"536";"Vestfold og Telemark";"Kvinne";"70-89";"X2019";29330
+"537";"Vestfold og Telemark";"Kvinne";"90+";"X2012";2660
+"538";"Vestfold og Telemark";"Kvinne";"90+";"X2013";2763
+"539";"Vestfold og Telemark";"Kvinne";"90+";"X2014";2872
+"540";"Vestfold og Telemark";"Kvinne";"90+";"X2015";2943
+"541";"Vestfold og Telemark";"Kvinne";"90+";"X2016";2931
+"542";"Vestfold og Telemark";"Kvinne";"90+";"X2017";2901
+"543";"Vestfold og Telemark";"Kvinne";"90+";"X2018";2888
+"544";"Vestfold og Telemark";"Kvinne";"90+";"X2019";2825
+"545";"Vestfold og Telemark";"Mann";"0-49";"X2012";128373
+"546";"Vestfold og Telemark";"Mann";"0-49";"X2013";129024
+"547";"Vestfold og Telemark";"Mann";"0-49";"X2014";129216
+"548";"Vestfold og Telemark";"Mann";"0-49";"X2015";129330
+"549";"Vestfold og Telemark";"Mann";"0-49";"X2016";129398
+"550";"Vestfold og Telemark";"Mann";"0-49";"X2017";129359
+"551";"Vestfold og Telemark";"Mann";"0-49";"X2018";128893
+"552";"Vestfold og Telemark";"Mann";"0-49";"X2019";128445
+"553";"Vestfold og Telemark";"Mann";"50-69";"X2012";50567
+"554";"Vestfold og Telemark";"Mann";"50-69";"X2013";51330
+"555";"Vestfold og Telemark";"Mann";"50-69";"X2014";52088
+"556";"Vestfold og Telemark";"Mann";"50-69";"X2015";52471
+"557";"Vestfold og Telemark";"Mann";"50-69";"X2016";53168
+"558";"Vestfold og Telemark";"Mann";"50-69";"X2017";53388
+"559";"Vestfold og Telemark";"Mann";"50-69";"X2018";53926
+"560";"Vestfold og Telemark";"Mann";"50-69";"X2019";54346
+"561";"Vestfold og Telemark";"Mann";"70-89";"X2012";18495
+"562";"Vestfold og Telemark";"Mann";"70-89";"X2013";18877
+"563";"Vestfold og Telemark";"Mann";"70-89";"X2014";19381
+"564";"Vestfold og Telemark";"Mann";"70-89";"X2015";20290
+"565";"Vestfold og Telemark";"Mann";"70-89";"X2016";21184
+"566";"Vestfold og Telemark";"Mann";"70-89";"X2017";22533
+"567";"Vestfold og Telemark";"Mann";"70-89";"X2018";23634
+"568";"Vestfold og Telemark";"Mann";"70-89";"X2019";24760
+"569";"Vestfold og Telemark";"Mann";"90+";"X2012";976
+"570";"Vestfold og Telemark";"Mann";"90+";"X2013";985
+"571";"Vestfold og Telemark";"Mann";"90+";"X2014";1037
+"572";"Vestfold og Telemark";"Mann";"90+";"X2015";1094
+"573";"Vestfold og Telemark";"Mann";"90+";"X2016";1136
+"574";"Vestfold og Telemark";"Mann";"90+";"X2017";1179
+"575";"Vestfold og Telemark";"Mann";"90+";"X2018";1202
+"576";"Vestfold og Telemark";"Mann";"90+";"X2019";1248
+"577";"Vestland";"Kvinne";"0-49";"X2012";193651
+"578";"Vestland";"Kvinne";"0-49";"X2013";195815
+"579";"Vestland";"Kvinne";"0-49";"X2014";197503
+"580";"Vestland";"Kvinne";"0-49";"X2015";198826
+"581";"Vestland";"Kvinne";"0-49";"X2016";199782
+"582";"Vestland";"Kvinne";"0-49";"X2017";200062
+"583";"Vestland";"Kvinne";"0-49";"X2018";199660
+"584";"Vestland";"Kvinne";"0-49";"X2019";198881
+"585";"Vestland";"Kvinne";"50-69";"X2012";65647
+"586";"Vestland";"Kvinne";"50-69";"X2013";66794
+"587";"Vestland";"Kvinne";"50-69";"X2014";67866
+"588";"Vestland";"Kvinne";"50-69";"X2015";68694
+"589";"Vestland";"Kvinne";"50-69";"X2016";69335
+"590";"Vestland";"Kvinne";"50-69";"X2017";69808
+"591";"Vestland";"Kvinne";"50-69";"X2018";70489
+"592";"Vestland";"Kvinne";"50-69";"X2019";71283
+"593";"Vestland";"Kvinne";"70-89";"X2012";32912
+"594";"Vestland";"Kvinne";"70-89";"X2013";33058
+"595";"Vestland";"Kvinne";"70-89";"X2014";33293
+"596";"Vestland";"Kvinne";"70-89";"X2015";33849
+"597";"Vestland";"Kvinne";"70-89";"X2016";34619
+"598";"Vestland";"Kvinne";"70-89";"X2017";35796
+"599";"Vestland";"Kvinne";"70-89";"X2018";36851
+"600";"Vestland";"Kvinne";"70-89";"X2019";37889
+"601";"Vestland";"Kvinne";"90+";"X2012";4107
+"602";"Vestland";"Kvinne";"90+";"X2013";4135
+"603";"Vestland";"Kvinne";"90+";"X2014";4227
+"604";"Vestland";"Kvinne";"90+";"X2015";4368
+"605";"Vestland";"Kvinne";"90+";"X2016";4341
+"606";"Vestland";"Kvinne";"90+";"X2017";4343
+"607";"Vestland";"Kvinne";"90+";"X2018";4391
+"608";"Vestland";"Kvinne";"90+";"X2019";4373
+"609";"Vestland";"Mann";"0-49";"X2012";206060
+"610";"Vestland";"Mann";"0-49";"X2013";208744
+"611";"Vestland";"Mann";"0-49";"X2014";211178
+"612";"Vestland";"Mann";"0-49";"X2015";212561
+"613";"Vestland";"Mann";"0-49";"X2016";213579
+"614";"Vestland";"Mann";"0-49";"X2017";213846
+"615";"Vestland";"Mann";"0-49";"X2018";213009
+"616";"Vestland";"Mann";"0-49";"X2019";211496
+"617";"Vestland";"Mann";"50-69";"X2012";68880
+"618";"Vestland";"Mann";"50-69";"X2013";70271
+"619";"Vestland";"Mann";"50-69";"X2014";71391
+"620";"Vestland";"Mann";"50-69";"X2015";72388
+"621";"Vestland";"Mann";"50-69";"X2016";73421
+"622";"Vestland";"Mann";"50-69";"X2017";73834
+"623";"Vestland";"Mann";"50-69";"X2018";74274
+"624";"Vestland";"Mann";"50-69";"X2019";74878
+"625";"Vestland";"Mann";"70-89";"X2012";24898
+"626";"Vestland";"Mann";"70-89";"X2013";25327
+"627";"Vestland";"Mann";"70-89";"X2014";26005
+"628";"Vestland";"Mann";"70-89";"X2015";27047
+"629";"Vestland";"Mann";"70-89";"X2016";28123
+"630";"Vestland";"Mann";"70-89";"X2017";29678
+"631";"Vestland";"Mann";"70-89";"X2018";31184
+"632";"Vestland";"Mann";"70-89";"X2019";32558
+"633";"Vestland";"Mann";"90+";"X2012";1396
+"634";"Vestland";"Mann";"90+";"X2013";1453
+"635";"Vestland";"Mann";"90+";"X2014";1525
+"636";"Vestland";"Mann";"90+";"X2015";1573
+"637";"Vestland";"Mann";"90+";"X2016";1627
+"638";"Vestland";"Mann";"90+";"X2017";1664
+"639";"Vestland";"Mann";"90+";"X2018";1736
+"640";"Vestland";"Mann";"90+";"X2019";1759
+"641";"Viken";"Kvinne";"0-49";"X2012";361491
+"642";"Viken";"Kvinne";"0-49";"X2013";365804
+"643";"Viken";"Kvinne";"0-49";"X2014";369337
+"644";"Viken";"Kvinne";"0-49";"X2015";371323
+"645";"Viken";"Kvinne";"0-49";"X2016";373987
+"646";"Viken";"Kvinne";"0-49";"X2017";375995
+"647";"Viken";"Kvinne";"0-49";"X2018";377893
+"648";"Viken";"Kvinne";"0-49";"X2019";378924
+"649";"Viken";"Kvinne";"50-69";"X2012";134020
+"650";"Viken";"Kvinne";"50-69";"X2013";136800
+"651";"Viken";"Kvinne";"50-69";"X2014";139486
+"652";"Viken";"Kvinne";"50-69";"X2015";141428
+"653";"Viken";"Kvinne";"50-69";"X2016";143356
+"654";"Viken";"Kvinne";"50-69";"X2017";144682
+"655";"Viken";"Kvinne";"50-69";"X2018";146615
+"656";"Viken";"Kvinne";"50-69";"X2019";149251
+"657";"Viken";"Kvinne";"70-89";"X2012";60610
+"658";"Viken";"Kvinne";"70-89";"X2013";61294
+"659";"Viken";"Kvinne";"70-89";"X2014";62671
+"660";"Viken";"Kvinne";"70-89";"X2015";64981
+"661";"Viken";"Kvinne";"70-89";"X2016";67580
+"662";"Viken";"Kvinne";"70-89";"X2017";71051
+"663";"Viken";"Kvinne";"70-89";"X2018";74053
+"664";"Viken";"Kvinne";"70-89";"X2019";76668
+"665";"Viken";"Kvinne";"90+";"X2012";5670
+"666";"Viken";"Kvinne";"90+";"X2013";5906
+"667";"Viken";"Kvinne";"90+";"X2014";6144
+"668";"Viken";"Kvinne";"90+";"X2015";6305
+"669";"Viken";"Kvinne";"90+";"X2016";6342
+"670";"Viken";"Kvinne";"90+";"X2017";6452
+"671";"Viken";"Kvinne";"90+";"X2018";6450
+"672";"Viken";"Kvinne";"90+";"X2019";6479
+"673";"Viken";"Mann";"0-49";"X2012";376220
+"674";"Viken";"Mann";"0-49";"X2013";381404
+"675";"Viken";"Mann";"0-49";"X2014";384833
+"676";"Viken";"Mann";"0-49";"X2015";387285
+"677";"Viken";"Mann";"0-49";"X2016";390243
+"678";"Viken";"Mann";"0-49";"X2017";392934
+"679";"Viken";"Mann";"0-49";"X2018";395187
+"680";"Viken";"Mann";"0-49";"X2019";396586
+"681";"Viken";"Mann";"50-69";"X2012";135280
+"682";"Viken";"Mann";"50-69";"X2013";138394
+"683";"Viken";"Mann";"50-69";"X2014";140966
+"684";"Viken";"Mann";"50-69";"X2015";143268
+"685";"Viken";"Mann";"50-69";"X2016";145564
+"686";"Viken";"Mann";"50-69";"X2017";147230
+"687";"Viken";"Mann";"50-69";"X2018";149278
+"688";"Viken";"Mann";"50-69";"X2019";152151
+"689";"Viken";"Mann";"70-89";"X2012";46272
+"690";"Viken";"Mann";"70-89";"X2013";47475
+"691";"Viken";"Mann";"70-89";"X2014";49202
+"692";"Viken";"Mann";"70-89";"X2015";51969
+"693";"Viken";"Mann";"70-89";"X2016";54677
+"694";"Viken";"Mann";"70-89";"X2017";58316
+"695";"Viken";"Mann";"70-89";"X2018";61469
+"696";"Viken";"Mann";"70-89";"X2019";64335
+"697";"Viken";"Mann";"90+";"X2012";2047
+"698";"Viken";"Mann";"90+";"X2013";2219
+"699";"Viken";"Mann";"90+";"X2014";2356
+"700";"Viken";"Mann";"90+";"X2015";2478
+"701";"Viken";"Mann";"90+";"X2016";2612
+"702";"Viken";"Mann";"90+";"X2017";2744
+"703";"Viken";"Mann";"90+";"X2018";2784
+"704";"Viken";"Mann";"90+";"X2019";2911
